@@ -1,5 +1,5 @@
 <h1 align="center">neffartty</h1>
-<h3 align="center">Software Engenering student NTU "KhPI"</h3>
+<h3 align="center">Software Engineering student NTU "KhPI"</h3>
 <hr>
 <h3 align="center">NEFFARRTY'S STATISTICS</h3>
 <hr>
