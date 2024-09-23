@@ -19,7 +19,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.languages.indepth.svg
-          base: ""  # Указать репозиторий, если это не текущий
+          base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
