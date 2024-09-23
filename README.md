@@ -8,6 +8,7 @@
     </td>
     <td>
       <img src="/metrics.plugin.languages.indepth.svg" alt="languages" width="400">
+      <br>
       <img src="/metrics.plugin.activity.svg" alt="activity" width="400">
     </td>
   </tr>
