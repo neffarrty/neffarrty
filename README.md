@@ -6,6 +6,8 @@
     <td rowspan="2">
       <img src="/github-metrics.svg" alt="metrics" width="400">
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="/metrics.plugin.languages.indepth.svg" alt="languages" width="400">
     </td>
