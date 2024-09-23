@@ -1,9 +1,7 @@
 name: Metrics
 on:
-  # Запускать автоматически по расписанию
   schedule:
-    - cron: "0 0 * * *"  # Ежедневно в 6 утра
-  # Возможность ручного запуска
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,9 +18,6 @@ jobs:
           filename: metrics.plugin.languages.indepth.svg
           base: ""  # Указать репозиторий, если это не текущий
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 8
