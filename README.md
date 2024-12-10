@@ -2,13 +2,19 @@
 <h3 align="center">Software Engineering student NTU "KhPI"</h3>
 <hr>
 
-### Skills 
+### Skills
+
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux,nodejs,express,nestjs,prisma,mysql,postgres,redis,c,cpp,java,docker,git" />
-    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux,nodejs,express,nestjs,prisma,mysql,postgres,redis" />
+  </a>
 </p>
-                    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,docker,git" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td>
