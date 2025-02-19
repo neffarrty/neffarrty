@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=fff" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
   <img src="https://img.shields.io/badge/Redis-DD0031?logo=redis&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
 </div>
