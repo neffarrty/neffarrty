@@ -21,7 +21,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_ignored: >-
-            html, css, dockerfile, makefile, c, jupyter
+            html, css, dockerfile, makefile, c, jupyter notebook
           plugin_languages_details: percentage, lines, bytes-size
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
